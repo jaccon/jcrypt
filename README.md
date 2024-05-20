@@ -13,6 +13,7 @@ Primeiro, instale a biblioteca `cryptography` usando `pip`:
 
 ```bash
 pip install cryptography
+```
 
 ## Documentação
 [documentação oficial](https://www.jaccon.com.br/jcrypt-script-python-para-criptografar-arquivos-com-chave-privada/)
